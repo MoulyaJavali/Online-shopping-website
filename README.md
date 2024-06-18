@@ -1,2 +1,2 @@
 # Online-shopping-website
-A online shopping project created using HTML and CSS 
+An online shopping project created using HTML and CSS 
