@@ -1,2 +1,2 @@
 # Online-shopping-website
-An online shopping website created using HTML and CSS 
+This project is a simple display of ahopping website, created to practice and demonstrate proficiency in HTML and CSS. 
